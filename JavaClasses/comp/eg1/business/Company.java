@@ -1,4 +1,4 @@
-package JavaClasses.comp.eg1;
+package JavaClasses.comp.eg1.business;
 
 public class Company {
 
