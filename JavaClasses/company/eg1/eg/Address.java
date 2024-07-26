@@ -1,4 +1,4 @@
-package JavaClasses.model.eg;
+package JavaClasses.company.eg1.eg;
 
 public class Address {
 

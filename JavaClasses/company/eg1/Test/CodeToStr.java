@@ -1,4 +1,4 @@
-package JavaClasses.toString.Test;
+package JavaClasses.company.eg1.Test;
 
 public class CodeToStr {
 
